@@ -59,3 +59,9 @@ match_with_rules(text)
 get_info("studying for government policies")
 
 spacy.explain("dobj")
+
+
+
+FOCUS ON KEYWORDS
+
+`An general introduction to using POS POS in...`
